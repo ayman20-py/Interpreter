@@ -128,3 +128,4 @@ impl Lexer {
         *self.source.get(self.counter).unwrap()
     }
 }
+
