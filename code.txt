@@ -1,1 +1,2 @@
-DECLARE age : 17.1
+DECLARE name : STRING
+DECLARE age : INTEGER
